@@ -1,4 +1,4 @@
-#Broadcast Receiver App
+# Broadcast Receiver App
 As a developer, it is very important to know how to get and send broadcasts in Android development, either to notify another app or us.  Broadcast Receiver App is an app that allowed me to learn most of the features about the Broadcast Receiver application component of the Android framework.
 
 ## 💚💚💚💚💚 Common Manifest 💚💚💚💚💚
